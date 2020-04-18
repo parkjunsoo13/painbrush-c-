@@ -1,0 +1,23 @@
+﻿  stdafx.cpp
+  ActionListener.cpp
+  component.cpp
+  container.cpp
+  ellip.cpp
+  line.cpp
+  menu.cpp
+  menubar.cpp
+  menuitem.cpp
+  Misc.cpp
+  mybutton.cpp
+  myview.cpp
+c:\users\parkj\desktop\왜가리\포트폴리오(1)_간편그림판\myview.cpp(192): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
+  PlusActionListener.cpp
+  Proj2018.cpp
+  figure.cpp
+  rect.cpp
+  tbutton.cpp
+  toolbar.cpp
+  View.cpp
+  코드를 생성하고 있습니다...
+  LINK : C:\Users\parkj\Desktop\왜가리\포트폴리오(1)_간편그림판\Debug\Proj2018.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  Proj2018.vcxproj -> C:\Users\parkj\Desktop\왜가리\포트폴리오(1)_간편그림판\Debug\Proj2018.exe
